@@ -1,0 +1,29 @@
+{
+  "name": "mern_stack_development",
+  "version": "1.0.0",
+  "description": "what's my name.. biyotch!!",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isubhokarma/MERN_Stack_Development.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/isubhokarma/MERN_Stack_Development/issues"
+  },
+  "homepage": "https://github.com/isubhokarma/MERN_Stack_Development#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "concurrently": "^4.1.0",
+    "express": "^4.17.0",
+    "mongoose": "^5.5.11"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
